@@ -22,4 +22,4 @@ This project is an interactive sales dashboard built using Microsoft Excel to an
 - High discounts reduce profitability
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+https://github.com/Gungunchaturvedi93/sales-data-analysis-excel/blob/main/Screenshot%202026-04-16%20164524.png
